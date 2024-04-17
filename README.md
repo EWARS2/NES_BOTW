@@ -5,13 +5,17 @@ prototype as a romhack of Zelda I.
 Because of how the map is compressed/stored in Zelda I,
 this really only captures the essence of it.
 
+
 Used map recreation by Ender Skywalker as reference
 - https://www.reddit.com/r/zelda/comments/rcpz91/botw_2d_prototype_map_recreation/
 - https://www.deviantart.com/ender-skywalker/art/BotW-2D-Prototype-Map-Recreation-900274564
+
 Used ZeldaTech for level editing
 - https://www.romhacking.net/utilities/187/
+
 Used TheLegendOfZeldaTextEditor for tweaking title and story
 - https://www.romhacking.net/utilities/1219/
+
 
 Todo:
 - Change Link's outfit
