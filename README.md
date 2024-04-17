@@ -33,3 +33,4 @@ Todo:
 - Test on KrzysioCart (Cheaper Everdrive alternative, very cool)
 - Also figure out how to use Releases tab on Github. Lol.
 - Learn English 2: The Sequel
+- Figure out how rafts work in this game
